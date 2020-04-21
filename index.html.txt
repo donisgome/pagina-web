@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>MI TRABAJO </title>
+<link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+<h1> MI SITIO GOMEZ </h1>
+<h1> INFORMATE AHORA </h1>
+
+<h3> mi nuevo aprendizajes es muy bueno me gusta </h3>
+<p>Todo se puede en la vida solo ay que tener paciencia Y sobre todo tener fe </p>
+
+ <img src="img/reflexion.jpg" alt="reflexion">
+
+<video src="videos/video2.mp4"autoplay></video>
+<p> <h2>SI TE GUSTO MI PAGINA</h2> ES POR QUE ERES UNA PERSONA DE GRANDES EMPRENDIMIENTOS EN LA VIDA </p>
+<p>sigenos no te quedes sin saver mas <p>
+
+<div>
+<h3> 
+<a href="https://facebook.com">preciona </a> 
+</h3>
+
+</div>
+
+<p> la forma de ser mejo es no teniendo odio anada </p>
+
+
+
+</body>
+</html>
+
+
+
+
